@@ -40,3 +40,6 @@ console.log(moveZeroes(nums1)); // Output: [1, 3, 12, 0, 0]
 
 const nums2 = [0, 0, 0, 0];
 console.log(moveZeroes(nums2)); // Output: [0]
+
+// TC = O(n)
+//SC = O(1)
